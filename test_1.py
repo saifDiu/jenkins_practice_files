@@ -1,0 +1,2 @@
+name = 'saif'
+print(name)
