@@ -1,2 +1,2 @@
 name = 'saif islam'
-print(named)
+print(name)
